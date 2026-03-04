@@ -1,3 +1,5 @@
+// Write a program to reverse a LinkedList.
+
 import java.util.LinkedList;
 
 public class ReverseLinkedList {

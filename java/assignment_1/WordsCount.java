@@ -1,3 +1,5 @@
+// Count the frequency of words in a sentence using a HashMap
+
 import java.util.HashMap;
 
 public class WordsCount {

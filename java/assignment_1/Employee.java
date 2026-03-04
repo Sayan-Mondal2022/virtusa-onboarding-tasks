@@ -1,3 +1,13 @@
+/*
+    Create class Employee:
+        -> id
+        -> name
+        -> static companyName
+        -> static block to initialize companyName
+        -> static method to change company name
+        -> Display details of employees
+*/
+
 public class Employee {
     public String id, name;
     public static String companyName;

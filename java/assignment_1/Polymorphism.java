@@ -1,3 +1,8 @@
+/*
+    Java program demonstrate all four pillars
+        -> Polymorphism
+*/
+
 class Animal{
     public String name;
     public int age;

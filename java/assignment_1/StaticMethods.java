@@ -1,3 +1,10 @@
+/*
+    Create a class MathUtils:
+        1. Static method to find square of a number.
+        2. Static method to find cube.
+        3. Call methods without creating object.
+*/
+
 import java.util.Scanner;
 
 public class StaticMethods {

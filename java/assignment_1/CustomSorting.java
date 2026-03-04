@@ -1,3 +1,11 @@
+/*
+    Custom Sorting using Comparator: Create a class Student with:
+        -> Id, name. marks
+        -> Store objects in an ArrayList and:
+            -> Sort by marks
+            -> Sort by name
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

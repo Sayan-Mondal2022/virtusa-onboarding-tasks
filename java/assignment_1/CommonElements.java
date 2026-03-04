@@ -1,3 +1,5 @@
+// Write a program to find common elements between two HashSet.
+
 import java.util.Set;
 import java.util.HashSet;
 

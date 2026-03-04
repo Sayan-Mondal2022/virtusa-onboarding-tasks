@@ -1,3 +1,10 @@
+/*
+    Write a program to:
+        -> Store student names in an ArrayList.
+        -> Sort them alphabetically.
+        -> Display the sorted list.
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
